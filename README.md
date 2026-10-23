@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 I’m currently learning **Java ASM, Paper & Velocity API and how Themida-style VMs are built in C++**<br>
+- 🌱 I’m currently learning **Java ASM, Paper & Velocity API, C++ & Reverse Engineering**<br>
 - 👨‍💻 All of my projects are available at [https://github.com/qownz/](https://github.com/qownz/)<br>
 - 💬 Ask me about **Paper & Velocity, Obfuscators**<br>
 - ⚡ Fun fact **I'm shy and have spent more hours debugging plugins than actually playing Minecraft**
